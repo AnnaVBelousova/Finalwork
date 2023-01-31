@@ -1,0 +1,15 @@
+C:\Users\Arteys\Desktop\Git\Finalwork\bin\Debug\net7.0\Finalwork.exe
+C:\Users\Arteys\Desktop\Git\Finalwork\bin\Debug\net7.0\Finalwork.deps.json
+C:\Users\Arteys\Desktop\Git\Finalwork\bin\Debug\net7.0\Finalwork.runtimeconfig.json
+C:\Users\Arteys\Desktop\Git\Finalwork\bin\Debug\net7.0\Finalwork.dll
+C:\Users\Arteys\Desktop\Git\Finalwork\bin\Debug\net7.0\Finalwork.pdb
+C:\Users\Arteys\Desktop\Git\Finalwork\obj\Debug\net7.0\Finalwork.csproj.AssemblyReference.cache
+C:\Users\Arteys\Desktop\Git\Finalwork\obj\Debug\net7.0\Finalwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arteys\Desktop\Git\Finalwork\obj\Debug\net7.0\Finalwork.AssemblyInfoInputs.cache
+C:\Users\Arteys\Desktop\Git\Finalwork\obj\Debug\net7.0\Finalwork.AssemblyInfo.cs
+C:\Users\Arteys\Desktop\Git\Finalwork\obj\Debug\net7.0\Finalwork.csproj.CoreCompileInputs.cache
+C:\Users\Arteys\Desktop\Git\Finalwork\obj\Debug\net7.0\Finalwork.dll
+C:\Users\Arteys\Desktop\Git\Finalwork\obj\Debug\net7.0\refint\Finalwork.dll
+C:\Users\Arteys\Desktop\Git\Finalwork\obj\Debug\net7.0\Finalwork.pdb
+C:\Users\Arteys\Desktop\Git\Finalwork\obj\Debug\net7.0\Finalwork.genruntimeconfig.cache
+C:\Users\Arteys\Desktop\Git\Finalwork\obj\Debug\net7.0\ref\Finalwork.dll
